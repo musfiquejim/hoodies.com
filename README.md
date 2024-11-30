@@ -9,7 +9,7 @@ Musfique Jim : offering stylish, high-quality hoodies and sweatshirts. To create
 
 # Visit Our Website
 
-[![Hoodies.com Website Preview](./assets/Screenshot 2024-11-30 at 15.28.56.png)](https://www.hoodies.com)
 
-![Hoodies.com Website Preview](https://www.hoodies.com/images/preview.jpg)
+
+![Hoodies.com Website Preview]([https://www.hoodies.com/images/preview.jpg](https://github.com/musfiquejim/hoodies.com/blob/main/Screenshot%202024-11-30%20at%2015.28.56.png))
 
