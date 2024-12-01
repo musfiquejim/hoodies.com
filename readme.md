@@ -4,6 +4,7 @@
 
 ![Hoodies Logo](https://www.vivvix.com/hs-fs/hubfs/new%20logo.png?width=440&height=82&name=new%20logo.png)
 
+[Watch the Video Demo](https://github.com/musfiquejim/hoodies.com/blob/main/vvxproject.mp4)
 
 > A curated list of awesome READMEs
 
